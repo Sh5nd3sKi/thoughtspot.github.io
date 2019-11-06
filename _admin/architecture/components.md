@@ -9,7 +9,7 @@ permalink: /:collection/:path.html
 ThoughtSpot consists of a cluster of one or more nodes, acting together to
 provide analytic answers to business questions. As such, there are only a few
 integration points with ThoughtSpot on your network. The major components in the
-a ThoughtSpot cluster are:
+ThoughtSpot cluster are:
 
 ![]({{ site.baseurl }}/images/architecture.png)
 
